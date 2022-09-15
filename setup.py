@@ -43,7 +43,7 @@ setup(
     author=__author__,
     author_email='alexevseev@gmail.com',
     version=__version__,
-    description='Django rest framework resources for social auth',
+    description='Django rest framework resources for social auth, Nucoro forked',
     long_description=__read('README.md') + '\n\n' + __read('RELEASE_NOTES.md'),
     long_description_content_type='text/markdown; charset=UTF-8',
     platforms=('Any'),

@@ -1,6 +1,10 @@
 rest_social_auth release notes
 ==============================
 
+v7.0.1
+------
+Forked by Nucoro to add support to Django 4.0.x
+
 v7.0.0
 ------
 - Add support of social-auth-app-django==5.x
