@@ -39,7 +39,7 @@ if sys.argv[-1] == 'tag':
 install_requires = __read('requirements.txt').split()
 
 setup(
-    name='rest_social_auth',
+    name='nucoro_rest_social_auth',
     author=__author__,
     author_email='alexevseev@gmail.com',
     version=__version__,
